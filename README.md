@@ -1,0 +1,2 @@
+# Daniel-Jnrbot
+Trading bot 
